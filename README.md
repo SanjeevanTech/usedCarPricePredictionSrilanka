@@ -30,7 +30,6 @@ A machine learning web application that predicts the market price of used vehicl
 │       └── index.html                 # Frontend UI (single-page app)
 │
 ├── vehicle_price_prediction.ipynb     # Jupyter Notebook (EDA + Model Training)
-├── 2019icts11Report.pdf               # Project report
 └── README.md
 ```
 
